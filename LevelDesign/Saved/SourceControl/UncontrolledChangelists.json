@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/Blueprints/BP_Controller.uasset",
+				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/UI/WB_Main.uasset",
+				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/UI/WB_GameOver.uasset",
+				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/Blueprints/BP_HealthPack.uasset",
+				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/BasicLevel.umap",
+				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset",
+				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/Blueprints/BP_Target.uasset",
+				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/Blueprints/BP_Pursuer.uasset",
+				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/Blueprints/Pursuer_AIController.uasset",
+				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/Blueprints/EAIState.uasset"
+			]
+		}
+	]
+}
