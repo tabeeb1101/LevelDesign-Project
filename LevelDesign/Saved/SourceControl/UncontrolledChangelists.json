@@ -16,7 +16,11 @@
 				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/Blueprints/BP_Pursuer.uasset",
 				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/Blueprints/Pursuer_AIController.uasset",
 				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
-				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/Blueprints/EAIState.uasset"
+				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/Blueprints/EAIState.uasset",
+				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/Blueprints/BP_Mortar.uasset",
+				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/Blueprints/BP_Projectile.uasset",
+				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/Blueprints/BP_Guard.uasset",
+				"/Users/tabeeb/Documents/Unreal Projects/LevelDesign/Content/Blueprints/BP_GuardProj.uasset"
 			]
 		}
 	]
